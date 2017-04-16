@@ -1,1 +1,1 @@
-# Backend Challenges boilerplate - package.json
+# Backend Challenges for @rudolphh - package.json
