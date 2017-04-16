@@ -1,6 +1,7 @@
 {
 	"author": "Rudolph Arthur Hernandez",
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.0.1",
 	"description": "An app that is cool beans.",
 	"keywords": [ "crazy" , "sexy" , "cool" ],
 	"dependencies": {
